@@ -2,14 +2,14 @@
                 .Email
                 Manick351@live.com
                 .SYNOPSIS
-                Сканирует выбранную сеть на предмет сетевых принтеров.
+                Scans the selected network for network printers.
 
                 .DESCRIPTION
-                Общий шаблон для сканирования сетевых принтеров и мфу
-                Использует два варинта, общий и краткий.
+                Generic template for scanning network printers and MFPs.
+                Uses two variants, general and short.
                 
                 .PARAMETER delete
-                Для использования краткого запроса необходимо использовать параметр -ShortOutput 
+                To use a short query, you must use the -ShortOutput parameter 
 #>
 
 
